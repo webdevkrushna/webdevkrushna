@@ -14,15 +14,15 @@
  💞️ I’m looking to collaborate on ...
    * Java based Web-Applications and Rest API's
    
- 📫 Connect with me ...
+## Connect with me
  
    [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>]()
    [<img align="left" alt="linked-in" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](itskrushnakale@gmail.com)
    [<img align="left" alt="linked-in" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>]()
   <br>
   <br>
-Expertise
-  <br><br>
+## Expertise
+  
   <img align="left" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img align="left" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img align="left" alt="html" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
