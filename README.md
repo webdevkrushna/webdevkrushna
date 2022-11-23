@@ -16,9 +16,8 @@
    
 ## Connect with me
  
-   [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>]()
-   [<img align="left" alt="linked-in" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](itskrushnakale@gmail.com)
-   [<img align="left" alt="linked-in" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>]()
+   [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/krushna-kale-1370061a1)
+   [<img align="left" alt="linked-in" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>](https://leetcode.com/itskrushnakale/)
   <br>
   <br>
 ## Expertise
