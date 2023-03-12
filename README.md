@@ -2,7 +2,7 @@
 
   A little exposure, I’m Krushna
 
-   I'm an enthusiastic Java developer interested in making positive impact on community by building meaningful things. Especially i'm obsessed with Rest API.
+   I'm an enthusiastic Java developer interested in making positive impact on community by building meaningful things. Especially obsessed with Rest API and also have good knowledge of front end technologies and frameworks.
 
  👀 I’m interested in...
    * building web application and rest apis.
