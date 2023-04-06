@@ -29,7 +29,7 @@
   <img align="left" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img align="left" alt="javascript" src="https://img.shields.io/badge/-Javascript-FFFF00?logo=javascript&logoColor=white&style=for-the-badge"/>
   <img align="left" alt="react js" src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
-  <img align="left" alt="node js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img align="left" alt="node js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/><br>
   <img align="left" alt="tailwind css" src="https://img.shields.io/badge/-tailwind%20css-ffffff?logo=tailwindcss&logoColor=blue&style=for-the-badge"/>
   
   
